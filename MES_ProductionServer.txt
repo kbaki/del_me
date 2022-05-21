@@ -11,4 +11,14 @@ Under Insite Sever folder there is a sub folder called Transaction Logs where th
 
 Adding a new line1
 
+<<<<<<< Updated upstream
 add another one
+=======
+<<<<<<< Updated upstream
+add another one
+=======
+add another one
+
+Adding from local file.
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
