@@ -8,3 +8,5 @@ Transaction logs are not generated all the time. Only when enabled they are crea
 One need to go to Insite Sever folder under Camstar folder in DOS (Command Prompt) and give the command "csitracelogutil enable -l5"
 This will enable the trace log utility which will start logging the transactions. To disable "csitracelogutil disable" command needs to be given.
 Under Insite Sever folder there is a sub folder called Transaction Logs where the log files are written.
+
+Adding a new line1
